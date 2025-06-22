@@ -139,9 +139,9 @@ This project implements a peer-to-peer (P2P) chat system with:
 
 ## Authors
 
-- **Belal Hamdeh** (1210148)
+- [**Belal Hamdeh**](https://github.com/Hamdeh-Belal)
     
-- **Abedalkareem Injas** (1200507)
+- [**Abedalkareem Injas**](https://github.com/Abedalkreem-Injas)
     
 
 ---
